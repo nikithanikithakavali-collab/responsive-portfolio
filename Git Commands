@@ -1,0 +1,11 @@
+git init
+
+git add .
+
+git commit -m "Advanced CSS3 Responsive Portfolio"
+
+git branch -M main
+
+git remote add origin https://github.com/username/responsive-portfolio.git
+
+git push -u origin main
